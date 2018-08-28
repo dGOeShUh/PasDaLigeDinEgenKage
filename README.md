@@ -29,6 +29,25 @@ Synomyner:
  Er du i tvivl om hvad PGP er, så kig:
  https://www.igolder.com/pgp/encryption/
  
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG C# v1.6.1.0
+
+mQENBFuE30YBCACWEVsrLt9/FfrYomm05PAxLTJxpIoafIXMjeedkGNzukIvmmvV
+TOgmdH3bsOjjmkWIsab/iVAH4sQmulxMOwq8rhdNb590Hd5Up02KoWkx8l07YQvP
+Kp9b6GY0AadpY8NK+Cu7OPmtNZad5p/QeC3IZiY5vlsiy/lvFTMnQRsKPBfBVwMC
+0xi6d97dl42PKHh9btc64b3zn9LDgDFBmcOXpi8tV+eSfeSZWD3Cm6xN05VMIcPq
+TZAtppLwQ/pCZIRMX8dTXHznCVJvepJCcl8dcp8Lu5jcXP0a34uU+T85+lvAd6Wi
+BDcLquF6FwjfIpF4XPaBIQxVULhVCyZNKL+LABEBAAG0FGR1ZWx1bmRvbmVAZ21h
+aWwuY29tiQEcBBABAgAGBQJbhN9GAAoJEE69pxMyk89vh1sH+gLnwqfxKv4BOxSc
+9JNKkLgsLUY18NUedEveovlQnCYUgVl1Ni7pXQputHPXkbeTnov5E6fjflE/duCj
+8Qow+I1x1Y3iCs7cZqhrPYI2VbBc6txy/tvphbCJaH6lCyRfaG593CltFg9Pqi5F
+G2cRauPxz+Yy9Sa7BhH0lkgjn4ZP8Ej1QUaqu+eBPzcrfAZSj9PZ8Hvi1AwNSRJc
+hkL1s/BL4ZeKuTM2A7ZoxcNLNa69oBhxWCaarFMb+YqJqhQ2orLhdqAAN+k7/8tU
+6wN7vF1Awgln2Bh1m04mN1ZMRLm6BsKdKL0yn2tVx0ujCxbe2kIs/c1pGOuXlYkE
+WOWo11U=
+=N1nF
+-----END PGP PUBLIC KEY BLOCK-----
+ 
  
  
  
