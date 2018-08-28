@@ -8,6 +8,7 @@ Retningslinjer for salgsopslag:
  3. Lad vær med at slå det samme opslag op.
  4. Kender du sælger og produkt så giv et like på opslaget.
  
+ 
 Synomyner:
 
  A. Kokain, coke, den gode, cola - Aloe vera
@@ -18,6 +19,18 @@ Synomyner:
  F. Skunk - Gran
  G. Hash - Eg
  H. Pot - Bøg
+ E. LSD - Koraler
+ 
+ 
+ Forslag / Ændringer
+ 
+ Skrives til administrator kodet med PGP.
+ 
+ Er du i tvivl om hvad PGP er, så kig:
+ https://www.igolder.com/pgp/encryption/
+ 
+ 
+ 
  
 
  
