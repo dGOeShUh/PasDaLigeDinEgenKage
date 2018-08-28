@@ -29,7 +29,7 @@ Synomyner:
  Er du i tvivl om hvad PGP er, så kig:
  https://www.igolder.com/pgp/encryption/
  
- < -----BEGIN PGP PUBLIC KEY BLOCK-----
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG C# v1.6.1.0
 
 mQENBFuE30YBCACWEVsrLt9/FfrYomm05PAxLTJxpIoafIXMjeedkGNzukIvmmvV
@@ -46,7 +46,7 @@ hkL1s/BL4ZeKuTM2A7ZoxcNLNa69oBhxWCaarFMb+YqJqhQ2orLhdqAAN+k7/8tU
 6wN7vF1Awgln2Bh1m04mN1ZMRLm6BsKdKL0yn2tVx0ujCxbe2kIs/c1pGOuXlYkE
 WOWo11U=
 =N1nF
------END PGP PUBLIC KEY BLOCK----- >
+-----END PGP PUBLIC KEY BLOCK-----
 
 
  
