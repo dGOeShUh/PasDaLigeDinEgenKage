@@ -11,15 +11,15 @@ Retningslinjer for salgsopslag:
  
 Synomyner:
 
- A. Kokain, coke, den gode, cola - Aloe vera.
- B. Amfetamin, speed, ned, dårlig - Påskeæg.
- C. MDMA, emma, tøsen - Fingerflet.
- D. Ketamin, hest, hyp - Bodylotion.
- E. Heoin, heo, deo - Shampoo.
- F. Skunk - Gran.
- G. Hash - Eg.
- H. Pot - Bøg.
- E. LSD - Koraler.
+ 1. Kokain, coke, den gode, cola - Aloe vera.
+ 2. Amfetamin, speed, ned, dårlig - Påskeæg.
+ 3. MDMA, emma, tøsen - Fingerflet.
+ 4. Ketamin, hest, hyp - Bodylotion.
+ 5. Heoin, heo, deo - Shampoo.
+ 6. Skunk - Gran.
+ 7. Hash - Eg.
+ 8. Pot - Bøg.
+ 9. LSD - Koraler.
  
  
  Forslag / Ændringer
