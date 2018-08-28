@@ -13,7 +13,12 @@ Synomyner:
  Kokain, coke, den gode, cola - Aloe vera
  Amfetamin, speed, ned, dårlig - Påskeæg
  MDMA, emma, tøsen - Fingerflet
- Ketamin, hest, hyp - 
+ Ketamin, hest, hyp - Bodylotion
+ Heoin, heo, deo - Shampoo
+ Skunk - Gran
+ Hash - Eg
+ Pot - Bøg
+ 
 
  
 
