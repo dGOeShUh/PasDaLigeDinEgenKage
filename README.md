@@ -1,5 +1,11 @@
-# PasDaLigeDinEgenKage
+#PasDaLigeDinEgenKage
+
 Online project
+
+Gruppens hovedeformål er køb og salg af WHATEVER!
+Men deler man et sweet musik nummer eller søger råd og vejledning om diverse, så er det også i orden.
+
+
 
 Retningslinjer for salgsopslag:
 
