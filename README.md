@@ -7,7 +7,7 @@ Men deler man et sweet musik nummer eller søger råd og vejledning om diverse, 
 
 
 
-Retningslinjer for salgsopslag:
+Retningslinjer for køb/salg opslag:
 
  1. Pris næves aldrig med DKK, Kr, ,- osv.
  2. Narko skrives med synomyner og ingen billeder på opslag (Se gerne forslag længere nede).
@@ -30,11 +30,10 @@ Synomyner:
  
  Forslag / Ændringer
  
- Skrives til administrator kodet med PGP.
+ Al henvendelse til administrator skal kodes med PGP.
+ Og bliver kun besvaret kodet med PGP, derfor er det et must at lave sine egne PGP keys.
  
- Er du i tvivl om hvad PGP er, så kig:
- https://www.igolder.com/pgp/encryption/
- 
+
  -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG C# v1.6.1.0
 
@@ -53,6 +52,9 @@ hkL1s/BL4ZeKuTM2A7ZoxcNLNa69oBhxWCaarFMb+YqJqhQ2orLhdqAAN+k7/8tU
 WOWo11U=
 =N1nF
 -----END PGP PUBLIC KEY BLOCK-----
+
+ Er du i tvivl om hvad PGP er, så kig:
+ https://www.igolder.com/pgp/encryption/
 
 
  
